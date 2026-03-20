@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/2412130118/Documents/ed-template/praticas/pratica01",
-      "program": "c:/Users/2412130118/Documents/ed-template/praticas/pratica01/build/Debug/outDebug",
+      "cwd": "c:/Users/2412130118/Documents/ed-template/praticas/imc.c",
+      "program": "c:/Users/2412130118/Documents/ed-template/praticas/imc.c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
